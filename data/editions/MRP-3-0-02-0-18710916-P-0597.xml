@@ -62,4 +62,4 @@
 <div type="protocol"/>
 <closer><seg type="emperorsapproval"><tei:choice xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:p="https://id.acdh.oeaw.ac.at/patternmatcher"><tei:abbr>Ah. E.</tei:abbr><tei:expan>Allerhöchste Entschließung</tei:expan></tei:choice> Ich habe den Inhalt dieses Protokolls zur Kenntnis genommen. Wien, 15. Oktober 1871. Franz Joseph.</seg>
 </closer>
-</div></body></text></TEI>
+</div></body><back/></text></TEI>
