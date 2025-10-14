@@ -1,19 +1,11 @@
-import os
 import glob
-import shutil
-
-data = "data"
-editions = os.path.join(data, "editions")
-indices = os.path.join(data, "indices")
+from acdh_tei_pyutils.tei import TeiReader
 
 
+files = glob.glob("data/editions/*.xml")
 
-for x in (data, editions, indices):
-    os.makedirs(x, exist_ok=True)
-
-
-files = glob.glob("orig/TEI/MRP-3-*-P-*.xml")
 for x in files:
-    _, f_name = os.path.split(x)
-    new_name = os.path.join(editions, f_name)
-    shutil.copy(x, new_name)
+    doc = TeiReader(x)
+    for bad in doc.any_xpath(".//tei:noteGrp"):
+        bad.getparent().remove(bad)
+    doc.tree_to_file(x)
