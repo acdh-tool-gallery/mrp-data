@@ -9,13 +9,13 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Demo App, erstellt für die TACDH-Tool-Gallery 11.3. Die Daten stammen von: Stephan Kurz. (2024). oeaw-ministerratsprotokolle/mp-edition-data: v. 1.5 including CMR calendar data 1872–1914 (v.1.5). Zenodo. <ref target="https://doi.org/10.5281/zenodo.11484662">https://doi.org/10.5281/zenodo.11484662</ref></p>
+            <p>born digital</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p>Demo App, erstellt für die ACDH-Tool-Gallery 11.3. Die Daten stammen von: Stephan Kurz. (2024). oeaw-ministerratsprotokolle/mp-edition-data: v. 1.5 including CMR calendar data 1872–1914 (v.1.5). Zenodo. <ref target="https://doi.org/10.5281/zenodo.11484662">https://doi.org/10.5281/zenodo.11484662</ref></p>
       </body>
   </text>
 </TEI>
