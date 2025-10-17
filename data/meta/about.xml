@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://acdh-tool-gallery.github.io/mrp-static" xml:id="about.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über das Projekt</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Demo App, erstellt für die TACDH-Tool-Gallery 11.3. Die Daten stammen von: Stephan Kurz. (2024). oeaw-ministerratsprotokolle/mp-edition-data: v. 1.5 including CMR calendar data 1872–1914 (v.1.5). Zenodo. <ref target="https://doi.org/10.5281/zenodo.11484662">https://doi.org/10.5281/zenodo.11484662</ref></p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
