@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listorg.xml" xml:base="https://acdh-tool-gallery.github.io/mrp-static" next="https://acdh-tool-gallery.github.io/mrp-static/listperson.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliographie</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+   <body>
+      <listBibl/>
+   </body>
+  </text>
+</TEI>
