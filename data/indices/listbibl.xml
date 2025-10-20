@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listorg.xml" xml:base="https://acdh-tool-gallery.github.io/mrp-static" next="https://acdh-tool-gallery.github.io/mrp-static/listperson.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="listbibl.xml" xml:base="https://acdh-tool-gallery.github.io/mrp-static" next="https://acdh-tool-gallery.github.io/mrp-static/listperson.xml">
   <teiHeader>
       <fileDesc>
          <titleStmt>
